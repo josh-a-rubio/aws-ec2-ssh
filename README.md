@@ -28,7 +28,7 @@ This demo demonstrates launching multiple AWS EC2 instances in different regions
 
 ## 📁 Repo Structure
 ```
-ec2-ssh-lab/
+aws-ec2-ssh/
 ├── README.md
 ├── screenshots/
 ├── slides/
