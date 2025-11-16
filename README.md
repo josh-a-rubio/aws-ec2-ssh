@@ -1,7 +1,7 @@
 # EC2 SSH Lab
 
 ## Overview
-This lab demonstrates launching multiple AWS EC2 instances in different regions and connecting to them via SSH using key-based authentication. The purpose is to show practical cloud engineering skills, including multi-region instance management and secure access.
+This lab demonstrates launching multiple AWS EC2 instances in different regions and connecting to them via SSH using key-based authentication. The purpose is to show practical skills, including multi-region instance management and secure access.
 
 ## Architecture
 - **Regions:** us-east-1 (N. Virginia), ap-northeast-1 (Tokyo)  
@@ -27,4 +27,14 @@ This lab demonstrates launching multiple AWS EC2 instances in different regions 
 - Only authorized public keys should be added to `~/.ssh/authorized_keys` on the server
 
 ## Repo Structure
+aws-ec2-ssh/
+├── README.md
+├── screenshots/
+├── slides/
+└── demo/
+
+## License
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+
 
