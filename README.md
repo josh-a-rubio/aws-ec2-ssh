@@ -5,8 +5,8 @@ This lab demonstrates launching multiple AWS EC2 instances in different regions 
 
 ## Architecture
 - **Regions:** us-east-1 (N. Virginia), ap-northeast-1 (Tokyo)  
-- **OS:** Ubuntu Linux (can also use Red Hat or other Linux distros)  
-- **Authentication:** SSH private/public key pairs (no passwords required after setup)  
+- **OS:** Ubuntu Linux  
+- **Authentication:** SSH private/public key pairs  
 - **Security:** Restricted access via security groups
 
 ## Requirements
@@ -16,7 +16,7 @@ This lab demonstrates launching multiple AWS EC2 instances in different regions 
 - Basic understanding of Linux commands
 
 ## Documentation
-- Screenshots of EC2 instance configuration and SSH sessions are stored in the `screenshots/` folder  
+- Screenshots of EC2 instance configuration and SSH sessions are stored in the [`screenshots/`](./screenshots/) folder  
 - Presentation slides are in the `slides/` folder  
 - Demo video of the lab is in the `demo/` folder  
 
