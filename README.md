@@ -16,7 +16,7 @@ This lab demonstrates launching multiple AWS EC2 instances in different regions 
 - Basic understanding of Linux commands
 
 ## Documentation
-- Screenshots of EC2 instance configuration and SSH sessions are stored in the [`screenshots/`](./screenshots/) folder  
+- Screenshots of EC2 instance configuration and SSH sessions are stored in the [`screenshots/`](./02-screenshots/) folder  
 - Presentation slides are in the `slides/` folder  
 - Demo video of the lab is in the `demo/` folder  
 
