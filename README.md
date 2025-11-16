@@ -17,8 +17,8 @@ This lab demonstrates launching multiple AWS EC2 instances in different regions 
 
 ## Documentation
 - Screenshots of EC2 instance configuration and SSH sessions are stored in the [`screenshots/`](./02-screenshots/) folder  
-- Presentation slides are in the `slides/` folder  
-- Demo video of the lab is in the `demo/` folder  
+- Presentation slides are in the [`slides/`](./03-slides/) folder  
+- Demo video of the lab is in the [`demo/`](./04-demo/) folder  
 
 ## Security Notes
 - Never share your private SSH key (`.pem`)  
