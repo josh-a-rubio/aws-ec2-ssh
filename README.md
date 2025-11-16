@@ -27,11 +27,13 @@ This lab demonstrates launching multiple AWS EC2 instances in different regions 
 - Only authorized public keys should be added to `~/.ssh/authorized_keys` on the server
 
 ## Repo Structure
+```
 ec2-ssh-lab/
 ├── README.md
 ├── screenshots/
 ├── slides/
 └── demo/
+```
 
 ## License
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
