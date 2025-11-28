@@ -1,4 +1,4 @@
-# 🚀 EC2 SSH Lab
+# 🚀 EC2 SSH Deployment
 
 ## 🧾 Overview
 This demo demonstrates launching multiple AWS EC2 instances in different regions and connecting to them via SSH using key-based authentication. The purpose is to show practical skills, including multi-region instance management and secure access.
